@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TodoFooter should take a snapshot of the TodoFooter 1`] = `
+<DocumentFragment>
+  <div
+    class="todo-footer"
+  >
+    <p>
+      1 task left
+    </p>
+    <a
+      href="/followers"
+    >
+      Followers
+    </a>
+  </div>
+</DocumentFragment>
+`;

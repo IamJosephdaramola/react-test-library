@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should take a snapshot of the header 1`] = `
+<DocumentFragment>
+  <h1
+    class="header"
+    data-testid="header-1"
+  >
+    todo list
+  </h1>
+</DocumentFragment>
+`;

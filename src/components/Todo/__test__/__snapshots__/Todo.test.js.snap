@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Todo should take a snapshot of the Todo 1`] = `
+<DocumentFragment>
+  <div
+    class="todo"
+  >
+    <h1
+      class="header"
+      data-testid="header-1"
+    >
+      Todo
+    </h1>
+    <div
+      class="input-container"
+    >
+      <input
+        class="input"
+        placeholder="Add a new task here..."
+        value=""
+      />
+      <button
+        class="add-btn"
+      >
+        Add
+      </button>
+    </div>
+    <div
+      class="todolist-container"
+    >
+      <div
+        class="todos-container"
+      >
+        <div />
+      </div>
+      <div>
+        <div
+          class="todo-footer"
+        >
+          <p>
+            0 tasks left
+          </p>
+          <a
+            href="/followers"
+          >
+            Followers
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
